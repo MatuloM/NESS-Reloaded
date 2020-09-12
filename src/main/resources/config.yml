@@ -54,6 +54,7 @@ enabled-checks:
   - 'FastLadder'
   - 'FastPlace'
   - 'ChestESP'
+  - 'ChestStealerCheck'
   - 'FlyGhostMode'
   - 'FlyInvalidMove'
   - 'FlyHighJump'
